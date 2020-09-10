@@ -5,6 +5,7 @@
 // @description  finds the direct links to web games on kongregate
 // @author       ayes-web
 // @include      https://www.kongregate.com/games/*
+// @downloadURL https://github.com/ayes-web/kongregate-game-grabber/raw/master/kongregate-game-grabber.user.js
 // ==/UserScript==
 
 (function() {
